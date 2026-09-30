@@ -1,0 +1,3 @@
+[functions.extraction-pipeline]
+verify_jwt = true
+entrypoint = "./functions/extraction-pipeline/index.ts"
